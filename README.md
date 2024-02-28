@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tran Anh Quang</h1>
-<h3 align="center">A passionate frontend developer from Vietnam</h3>
+<h3 align="center">A bridge software engineer from Vietnam</h3>
 
 <img align="right" alt="coding" width="400 src="<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/15OiD5gU_8ZTqXSS5mUOyYlkQ_tWaxHTX/view?usp=drive_link"/>
 "/>
