@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400 src="<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/15OiD5gU_8ZTqXSS5mUOyYlkQ_tWaxHTX/view?usp=drive_link"/>
 "/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tran-anh-quang&label=Profile%20views&color=0e75b6&style=flat" alt="tran-anh-quang" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=tran-anh-quang&label=Profile%20views&color=0e75b6&style=flat" alt="tran-anh-quang](https://drive.google.com/file/d/1azLXh5cYMA_xhaC_GKC5s0Tj4ySktPof/view?usp=sharing)" /> </p>
 
 - 🔭 I’m currently working on **Pick-and-Buy**
 
