@@ -30,6 +30,9 @@
   <a href="https://www.youtube.com/channel/UCj40OU-BjulAMwaTTTHO8-Q" target="_blank">
     <img src="https://img.shields.io/badge/Youtube-FAFAD2?style=for-the-badge&logo=youtube&logoColor=red" target="_blank" />
   </a>
+    <a href="https://leetcode.com/dinosaurous9x" target="_blank">
+    <img src="https://img.shields.io/badge/Leetcode-B8860B?style=for-the-badge&logo=leetcode&logoColor=yellow" target="_blank" />
+  </a>
 </div>
 
 <hr/>
@@ -47,7 +50,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tran-anh-quang/tran-anh-quang/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
