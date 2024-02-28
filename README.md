@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tran Anh Quang</h1>
 <h3 align="center">A bridge software engineer from Vietnam</h3>
 
-<img align="right" alt="coding" width="400 src="<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/15OiD5gU_8ZTqXSS5mUOyYlkQ_tWaxHTX/view?usp=drive_link"/>
-"/>
+<img align="right" alt="coding" width="400 src="<img align="right" alt="coding" width="400" src="![image](https://drive.google.com/uc?export=view&id=1zsov6Ou4V-7asNSq_d4HjxRveiWN7A58)"/>
 
 <p align="left"> <img src="[https://komarev.com/ghpvc/?username=tran-anh-quang&label=Profile%20views&color=0e75b6&style=flat" alt="tran-anh-quang](https://drive.google.com/file/d/1azLXh5cYMA_xhaC_GKC5s0Tj4ySktPof/view?usp=sharing)" /> </p>
 
