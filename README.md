@@ -10,7 +10,7 @@
 
 <div align="center">
   
-  🔭 I’m currently working on **Newwave JSC**
+  🔭 I’m currently working on **VMO**
 
   🌱 I’m currently learning in deep **Spring Boot & React Native**
 
