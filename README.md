@@ -10,9 +10,9 @@
 
 <div align="center">
   
-  🔭 I’m currently working on **VMO**
+  🔭 I’m currently working on ****
 
-  🌱 I’m currently learning in deep **Spring Boot & React Native**
+  🌱 I’m currently learning in deep **Spring Boot & Swift**
 
   📫 How to reach me **dinosaurous9x@gmail.com**
 
@@ -40,7 +40,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux,bootstrap,tailwind,mui,typescript,java,spring,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux,bootstrap,tailwind,mui,typescript,swift,java,spring,mysql,postgres" />
     <img src="https://skillicons.dev/icons?i=vscode,idea,postman,github,gitlab,docker,prometheus,grafana,kafka,rabbitmq,elasticsearch" /><br>
 </div>
 
