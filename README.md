@@ -12,7 +12,7 @@
   
   🔭 I’m currently working on ****
 
-  🌱 I’m currently learning in deep **React & Swift**
+  🌱 I’m currently learning in deep **Java & Angular**
 
   📫 How to reach me **dinosaurous9x@gmail.com**
 
